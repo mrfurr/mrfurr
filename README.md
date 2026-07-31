@@ -1,4 +1,4 @@
-# MR. FURR
+# Mr. Furr
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mrfurr/mrfurr/main/dark.svg" alt="Kidus Yitayal profile banner" width="100%" />
