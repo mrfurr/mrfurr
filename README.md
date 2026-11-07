@@ -33,7 +33,7 @@ I am Kidus Yitayal (GitHub: mrfurr) - a focused offensive security practitioner,
 A full-featured bug-bounty and vulnerability lifecycle platform. Responsibilities: backend integration, automated reporting templates, and vulnerability triage workflows. (Repo: LucyBounty)
 
 ### 🔸 PhishEye Ethiopia (Solo)
-Phishing detection and reporting app targeted at local threat models — combines heuristic checks, blocklists, and user reporting to reduce phishing impact.
+Phishing detection and reporting app targeted at local threat models combines heuristic checks, blocklists, and user reporting to reduce phishing impact.
 
 ### 🔸 Quantum Cloud Firewall (Research / Roadmap)
 Conceptual R&D exploring quantum-inspired anomaly detection for cloud traffic. Active research and prototyping planned.
@@ -72,6 +72,6 @@ Conceptual R&D exploring quantum-inspired anomaly detection for cloud traffic. A
 
 Interested in collaborating? Open an issue, start a PR, or ping me on Telegram. I welcome team projects, research partners, and bug bounty collaborators.
 
-If you find my work useful — star the repo and follow for updates on LucyBounty and PhishEye.
+If you find my work useful - star the repo and follow for updates on LucyBounty and PhishEye.
 
-— Kidus (mrfurr)
+ Kidus (mrfurr)
