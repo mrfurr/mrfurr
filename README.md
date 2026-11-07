@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/mrfurr/mrfurr/main/dark.svg" alt="Kidus Yitayal profile banner" width="100%" />
 </p>
 
-I am Kidus Yitayal (GitHub: mrfurr) — a focused offensive security practitioner, web application pentester, and bug bounty hunter. I build practical security tools, research vulnerabilities, and contribute to open-source projects that improve defensive posture.
+I am Kidus Yitayal (GitHub: mrfurr) - a focused offensive security practitioner, web application pentester, and bug bounty hunter. I build practical security tools, research vulnerabilities, and contribute to open-source projects that improve both offensive and defensive posture.
 
 <p align="center">
   <a href="https://github.com/mrfurr"><img src="https://img.shields.io/badge/Focus-Offensive%20Security-6A5ACD?style=for-the-badge&logo=shield&logoColor=white" alt="Offensive Security" /></a>
@@ -15,19 +15,19 @@ I am Kidus Yitayal (GitHub: mrfurr) — a focused offensive security practitione
 
 ## ⚡ Quick Highlights
 
-- 🔭 Current work: Team project LucyBounty (collaboration with INSA Cyber Group)
-- ⚙️ Personal projects: PhishEye Ethiopia (phishing detection app) and long-term research into Quantum Cloud Firewall concepts
-- 🎯 Focus areas: web app pentesting, vulnerability research, bug bounty programs, and security automation
-- 🧠 Currently building: automation, PoCs, phishing detection tooling, and repeatable security workflows
+-  Current work: Team project LucyBounty (collaboration with INSA Cyber Group)
+-  Personal projects: PhishEye Ethiopia (phishing detection app) and long-term research into Quantum Cloud Firewall concepts
+-  Focus areas: web app pentesting, vulnerability research, bug bounty programs, and security automation
+-  Currently building: automation, PoCs, phishing detection tooling, and repeatable security workflows
 
-## 🧰 Core Skills
+## Core Skills
 
 - Languages: Python · Bash · JavaScript · HTML/CSS · C (basics) · PHP
 - Platforms / OS: Kali Linux · Ubuntu · Arch Linux · Windows
 - Security tools: Burp Suite · Wireshark · Nmap · Metasploit · Sliver · Postman · Docker · Git
 - Practices: Responsible disclosure · Reproducible PoC · Secure coding reviews · Automation & tooling
 
-## 📂 Highlighted Projects
+## Highlighted Projects
 
 ### 🔸 LucyBounty (Team)
 A full-featured bug-bounty and vulnerability lifecycle platform. Responsibilities: backend integration, automated reporting templates, and vulnerability triage workflows. (Repo: LucyBounty)
@@ -38,14 +38,14 @@ Phishing detection and reporting app targeted at local threat models — combine
 ### 🔸 Quantum Cloud Firewall (Research / Roadmap)
 Conceptual R&D exploring quantum-inspired anomaly detection for cloud traffic. Active research and prototyping planned.
 
-## 🛠 What I build
+## What I build
 
 - Automated scanners and PoCs for web vulnerabilities (XSS, SSRF, RCE, auth bypasses)
 - Detection tooling for phishing and suspicious domains
 - Reproducible demos and Dockerized testbeds for secure testing
 - Integrations that make bug reporting and triage repeatable and fast
 
-## ✅ Professional Practices
+## Professional Practices
 
 - Clean, atomic commits with meaningful messages
 - Well-documented PRs and issue templates for contributors
@@ -64,9 +64,9 @@ Conceptual R&D exploring quantum-inspired anomaly detection for cloud traffic. A
 
 ## 📫 Connect
 
-- ✉️ Email: kidusyitayal@gmail.com
-- 💬 Telegram: @OX7b_furr — https://t.me/OX7b_furr
-- 📷 Instagram: @0x7b_furr — https://instagram.com/0x7b_furr
+-  Email: kidusyitayal@gmail.com
+-  Telegram: @OX7b_furr — https://t.me/OX7b_furr
+-  Instagram: @0x7b_furr — https://instagram.com/0x7b_furr
 
 ## 🤝 Collaboration
 
