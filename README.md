@@ -13,7 +13,7 @@ I am Kidus Yitayal (GitHub: mrfurr) - a focused offensive security practitioner,
   <a href="https://github.com/mrfurr"><img src="https://img.shields.io/badge/Open%20Source-Contributor-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" /></a>
 </p>
 
-## ⚡ Quick Highlights
+## Quick Highlights
 
 -  Current work: Team project LucyBounty (collaboration with INSA Cyber Group)
 -  Personal projects: PhishEye Ethiopia (phishing detection app) and long-term research into Quantum Cloud Firewall concepts
@@ -65,8 +65,8 @@ Conceptual R&D exploring quantum-inspired anomaly detection for cloud traffic. A
 ## 📫 Connect
 
 -  Email: kidusyitayal@gmail.com
--  Telegram: @OX7b_furr — https://t.me/OX7b_furr
--  Instagram: @0x7b_furr — https://instagram.com/0x7b_furr
+-  Telegram: @OX7b_furr -> https://t.me/OX7b_furr
+-  Instagram: @0x7b_furr -> https://instagram.com/0x7b_furr
 
 ## 🤝 Collaboration
 
